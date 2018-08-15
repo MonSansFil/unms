@@ -62,7 +62,7 @@ git clone https://github.com/MonSansFil/unms.git
 When git is done cloning, include the file containing the class like so in your code:
 
 ```php
-require_once('path/to/src/Client.php');
+require_once('path/to/src/Unms.php');
 ```
 
 ### Download the Release
